@@ -46,5 +46,5 @@ Open a pull request.
 # Contact
 If you have any questions or need further assistance, feel free to contact the repository owner:
 Name: Majeed
-Email: aa33@example.com
+Email: aa33@williams.com
 Thank you for using the Boggle game! Enjoy playing and have fun!
